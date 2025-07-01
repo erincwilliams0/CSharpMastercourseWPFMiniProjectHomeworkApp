@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36109.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFMiniProjectHomework", "WPFMiniProjectHomework\WPFMiniProjectHomework.csproj", "{830BB0C9-1058-41F8-BBE5-1511695AEB2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoLibrary", "DemoLibrary\DemoLibrary.csproj", "{9ACD7849-FF38-4195-94EF-292498115D57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{830BB0C9-1058-41F8-BBE5-1511695AEB2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{830BB0C9-1058-41F8-BBE5-1511695AEB2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{830BB0C9-1058-41F8-BBE5-1511695AEB2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{830BB0C9-1058-41F8-BBE5-1511695AEB2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9ACD7849-FF38-4195-94EF-292498115D57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ACD7849-FF38-4195-94EF-292498115D57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ACD7849-FF38-4195-94EF-292498115D57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ACD7849-FF38-4195-94EF-292498115D57}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {927FC5E3-6228-46EC-BCB7-26BA28A79429}
+	EndGlobalSection
+EndGlobal
